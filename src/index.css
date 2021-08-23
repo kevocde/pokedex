@@ -1,3 +1,9 @@
+/* Tailwind initialization */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Styles owns of the app */
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
